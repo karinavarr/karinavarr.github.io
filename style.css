@@ -1,6 +1,6 @@
 .topnav {
   position: relative;
-  background-color: #333;
+  background-color: #000080;
   overflow: hidden;
 }
 
@@ -19,7 +19,7 @@
 }
 
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: #000080;
   color: #ECEA60;
 }
 
